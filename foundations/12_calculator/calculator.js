@@ -28,7 +28,8 @@ const factorial = function(a) {
     }
     return b;
   };
-  }
+};
+
 
 // Do not edit below this line
 module.exports = {
